@@ -31,10 +31,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Attest.Fake.Core">
-      <HintPath>..\packages\Attest.Fake.Core.1.0.0\lib\net451\Attest.Fake.Core.dll</HintPath>
+      <HintPath>..\packages\Attest.Fake.Core.1.0.4\lib\net451\Attest.Fake.Core.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Attest.Fake.Moq">
-      <HintPath>..\packages\Attest.Fake.Moq.1.0.0\lib\net451\Attest.Fake.Moq.dll</HintPath>
+      <HintPath>..\packages\Attest.Fake.Moq.1.0.4\lib\net451\Attest.Fake.Moq.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Caliburn.Micro">
       <HintPath>..\packages\Caliburn.Micro.Core.2.0.2\lib\net45\Caliburn.Micro.dll</HintPath>
@@ -50,7 +52,8 @@
       <HintPath>..\packages\NUnit.2.6.4\lib\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Solid.Practices.IoC">
-      <HintPath>..\packages\Solid.Practices.IoC.1.0.0\lib\net451\Solid.Practices.IoC.dll</HintPath>
+      <HintPath>..\packages\Solid.Practices.IoC.1.0.4\lib\net451\Solid.Practices.IoC.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

@@ -38,8 +38,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\Caliburn.Micro.2.0.2\lib\net45\Caliburn.Micro.Platform.dll</HintPath>
     </Reference>
-    <Reference Include="Solid.Practices.Scheduling">
-      <HintPath>..\packages\Solid.Practices.Scheduling.1.0.0\lib\net451\Solid.Practices.Scheduling.dll</HintPath>
+    <Reference Include="Solid.Practices.Scheduling, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Solid.Practices.Scheduling.1.0.4\lib\net451\Solid.Practices.Scheduling.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
